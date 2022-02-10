@@ -7,10 +7,12 @@ export const Wrapper = styled.div`
   width: 100%;
   border-radius: 15px;
   border: 1px solid #f5f5f5;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   height: 100%;
   button {
-    border-radius: 0 0 20px 20px;
     background-color: #FF9900;
+    color: white;
+    font-weight: bold;
   }
   img {
     max-height: 250px;
