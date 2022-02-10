@@ -18,6 +18,7 @@ export const Wrapper = styled.div`
   button {
     background-color: #FF9900;
     font-weight: bold;
+    color: white;
   }
   h4 {
     color: #3A3B3C;
