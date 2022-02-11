@@ -1,5 +1,7 @@
 # shop-checkout
 
+small project for course work
+
 libraries:
 - Material UI
 - react-query
